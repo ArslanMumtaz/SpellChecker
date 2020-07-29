@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\dsproject\dsproject\source.cpp(262): warning C4101: 'inputArray': unreferenced local variable
+  DSPROJECT.vcxproj -> C:\Users\hp\source\repos\DSPROJECT\Debug\DSPROJECT.exe
